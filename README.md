@@ -8,4 +8,4 @@ Create docker image: docker build -t localhost/helloworld .
 
 Run the container: docker run -p 8080:8080 localhost/helloworld
 
-Docker image creation and running container automation steps are configured in the jenkins server (which I can show during our next appointment).
+Docker image creation and running container automation steps are configured in the Jenkinsfile.
